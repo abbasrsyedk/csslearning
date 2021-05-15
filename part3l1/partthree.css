@@ -1,0 +1,29 @@
+/* for classes use a . infront of the name */
+
+.firstDiv{
+    background-color: rgb(228, 129, 129);
+}
+.secondDiv{
+    background-color: rgb(157, 243, 157);
+}
+
+/* use # for ids */
+#hi{
+    color: red;
+}
+/* go here for all the types */
+/* https://www.w3schools.com/cssref/css_selectors.asp */ */
+
+
+h2 + ul{
+    border: 4px solid purple;
+}
+
+li a{
+    color: indigo;
+}
+
+li a[href="www.youtube.com"]{
+    color: blue;
+    border: 4px solid purple;
+}

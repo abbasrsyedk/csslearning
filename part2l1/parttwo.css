@@ -1,0 +1,19 @@
+body{
+    background: url(https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.jpg);
+    background-repeat: repeat;
+}
+
+div{
+    background: rgba(157, 160, 157, 0.2);
+    border-color: rgb(235, 69, 69);
+    border-width: 3px;
+    border-style: solid;
+}
+p{
+    color: yellow;
+}
+
+span{
+    background-color:black;
+    color: white;
+}

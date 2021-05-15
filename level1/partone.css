@@ -1,0 +1,25 @@
+/* this is a comment */
+/* sometext */
+/* this is the basic boilerplate
+selected tag{
+    property: value;
+} */
+
+h1{
+    color: rgb(255, 196, 0);
+}
+/* rgb */
+li{
+    color: rgb(52, 229, 235);
+}
+/* hex */
+p{
+    color: #aeeb34;
+
+}
+h4{
+    /* rgba a defines the opacity of the color */
+    color: rgba(52, 229, 235, 1);
+}
+
+/* hex  codes are used commonly */

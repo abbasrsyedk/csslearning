@@ -1,0 +1,41 @@
+/* font-family: 'Itim', cursive; */
+
+#ty{
+    font-family: 'Itim';
+    border: 3px solid purple;
+    width:70%;
+    /* margin: top right bottom left */
+    padding: 50px;
+    margin: 200px 200px 20px 200px;
+    text-align: center;
+
+}
+h2{
+    font-family: "Arial";
+    text-align: center;
+    color: rgb(207, 129, 40);
+}
+
+#po{
+    text-align: center;
+    color:rgb(218, 63, 205);
+}
+
+form{
+    color: rgb(44, 148, 148);
+    text-align: center;
+    font-family:"Arial";
+    font-size: 20px;
+    border: 2px solid indigo;
+    padding: 10px;
+    margin-top: 100px;
+    
+}
+body {
+    background: url(codebg.jpg) green;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    /* radial-gradient(circle, blue, white); 
+    */
+    
+}
